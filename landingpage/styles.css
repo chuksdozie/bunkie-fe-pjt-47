@@ -803,6 +803,15 @@ a.login {
   border-radius: 50%;
 }
 
+.flink{
+  text-decoration: none;
+  color: #3e3e3e;
+}
+
+.flink:hover{
+  text-decoration: underline;
+}
+
 /* CCODE FOR TABLET DEVICES START HERE */
 @media screen and (min-width: 425px) and (max-width: 768px) {
   * {
